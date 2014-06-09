@@ -38,7 +38,6 @@ font: 150px 'roboto', sans-serif;
 font-weight:300;
 color:#1e1e1e;
 text-align:center;
-padding: 120px 0 120px 0;
 opacity: .5; 
 }
 
@@ -53,6 +52,7 @@ div a {
 div a:hover {
   color: #222;
 }
+
 
 
 
