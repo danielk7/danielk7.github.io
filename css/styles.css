@@ -39,20 +39,8 @@ font-weight:300;
 color:#1e1e1e;
 text-align:center;
 opacity: .5; 
+padding-bottom: 120px;
 }
-
-div a {
-  font: 35px'roboto', sans-serif;
-  text-align: center;
-  color: #999;
-  text-decoration: none;
-
-}
-
-div a:hover {
-  color: #222;
-}
-
 
 
 
